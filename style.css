@@ -10,7 +10,7 @@ button {
     cursor: pointer;
     height: 50px;
     margin: 4px;
-    transition: all 0.05s;
+    transition: all 0.03s;
     width: 50px;
 }
 
