@@ -1,6 +1,4 @@
-body {
-    text-align: center;
-}
+body {text-align: center;}
 
 p {
     font: bold 30px sans-serif;
@@ -14,22 +12,18 @@ button {
     width: 50px;
 }
 
-button:hover {
-    transform: scale(1.1);
-}
+button:hover {transform: scale(1.1);}
 
-button:active {
-    transform: scale(1);
-}
+button:active {transform: scale(1);}
 
 button#rock {
-    background: url('images/rock.png') center/contain;
+    background: url('images/rock.png') center/contain no-repeat;
 }
 
 button#paper {
-    background: url('images/paper.png') center/contain;
+    background: url('images/paper.png') center/contain no-repeat;
 }
 
 button#scissors {
-    background: url('images/scissors.png') center/contain;
+    background: url('images/scissors.png') center/contain no-repeat;
 }
