@@ -1,4 +1,7 @@
-body {text-align: center;}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
 
 p {
     font: bold 30px sans-serif;
