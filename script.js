@@ -2,6 +2,7 @@ const btns = document.querySelectorAll('button');
 const resultDiv = document.createElement('div');
 document.body.appendChild(resultDiv);
 const message = document.createElement('p');
+const h1 = document.querySelector('h1');
 
 let computerSelection;
 let roundResult;

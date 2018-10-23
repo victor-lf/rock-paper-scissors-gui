@@ -1,5 +1,35 @@
-body {text-align: center;}
+body {
+    text-align: center;
+}
 
 p {
     font: bold 30px sans-serif;
+}
+
+button {
+    cursor: pointer;
+    height: 50px;
+    margin: 4px;
+    transition: all 0.05s;
+    width: 50px;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+button:active {
+    transform: scale(1);
+}
+
+button#rock {
+    background: url('images/rock.png') center/contain;
+}
+
+button#paper {
+    background: url('images/paper.png') center/contain;
+}
+
+button#scissors {
+    background: url('images/scissors.png') center/contain;
 }
