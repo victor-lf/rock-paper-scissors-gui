@@ -1,6 +1,6 @@
 # rock-paper-scissors-gui
 
-Rock Paper Scissors game with a simple GUI, intended as an exercise for DOM manipulation with JavaScript.
+Rock Paper Scissors game with a simple GUI intended as an exercise for DOM manipulation with JavaScript.
 
 ---
 
